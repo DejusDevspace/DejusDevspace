@@ -1,6 +1,28 @@
 # Hello, I'm Deju! 👋
 
-I'm passionate about all things Python, data science, machine learning, and artificial intelligence!
+```python
+class Deju:
+    def __init__(self, **kwargs):
+        self.name = self.__class__.__name__
+        self.interests = ['Python', 'Data Science', 'Machine Learning', 'AI', 'Robotics', '...']
+        self.skills = {
+                        'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
+                        'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly'],
+                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'XGBoost'],
+                        'deep_learning': ['TensorFlow', 'Keras'],
+                        'web_development': ['Flask', 'Node.js', 'Express.js', 'Bootstrap', 'jQuery', 'WordPress'],
+                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL'],
+                        'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
+                        'cloud_based_IDEs': ['Google Colab', 'Replit'],
+                        'design_softwares': ['AutoCAD', 'SOLIDWORKS'],
+                        'version_control': ['Git', 'GitHub'],
+        }
+        self.hobbies = ['Learning', 'Football', 'Gaming', 'Reading??']
+
+        # Always looking to improve and add to my skills:
+        for key, value in kwargs.items():
+            setattr(self, key, value)
+```
 
 ## About Me
 
