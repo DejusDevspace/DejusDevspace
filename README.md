@@ -5,7 +5,7 @@ I'm passionate about all things Python, data science, machine learning, and arti
 ## About Me
 
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
-- 🌱 I’m currently learning Machine Learning and AI, full-stack web development.
+- 🌱 I’m currently learning Machine Learning and AI, robotics, and full-stack web development.
 - 👯 I’m looking to collaborate on ML/AI, Python, Data Science projects.
 - 💬 Ask me about Python, data science, or machine learning 😮‍💨.
 - 📫 How to reach me: ojomideju2003@gmail.com 
