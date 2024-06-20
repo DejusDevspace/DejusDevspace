@@ -49,7 +49,7 @@ class Deju:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DejusDevspace&label=Profile%20views&color=0e75b6&style=flat)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DejusDevspace&show_icons=true&theme=dark)  ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DejusDevspace&theme=dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DejusDevspace&show_icons=true&theme=dark) ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DejusDevspace&theme=dark&hide_border=true)
 
 
 [![Deju's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DejusDevspace&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
