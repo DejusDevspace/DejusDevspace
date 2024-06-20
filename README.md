@@ -47,8 +47,6 @@ class Deju:
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=DejusDevspace&label=Profile%20views&color=0e75b6&style=flat)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DejusDevspace&show_icons=true&theme=dark) 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DejusDevspace&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&layout=compact&theme=dark)
 
