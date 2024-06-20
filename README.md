@@ -45,6 +45,10 @@ class Deju:
 - HTML5 🌐, Cascading Style Sheets (CSS) 🎨
 - and a few more... 🚀
 
+## GitHub Stats
+
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DejusDevspace&theme=dark&hide_border=true)   ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&layout=compact&theme=dark)
+
 
 ## Let's Connect
 
