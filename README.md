@@ -4,11 +4,11 @@
 class Deju:
     def __init__(self, **kwargs):
         self.name = self.__class__.__name__
-        self.interests = ['Python', 'Data Science', 'Machine Learning', 'AI', 'Robotics', '...']
+        self.interests = ['AI', 'Python', 'Data Science', 'Machine Learning', 'Robotics', '...']
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
-                        'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly'],
-                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'XGBoost'],
+                        'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
+                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'XGBoost', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras'],
                         'web_development': ['Flask', 'Node.js', 'Express.js', 'Bootstrap', 'jQuery', 'WordPress'],
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL'],
@@ -27,7 +27,7 @@ class Deju:
 ## About Me
 
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
-- 🌱 I’m currently learning Machine Learning and AI, robotics, and full-stack web development.
+- 🌱 I’m currently learning Machine Learning / AI (RAG), robotics, and full-stack web development.
 - 👯 I’m looking to collaborate on ML/AI, Python, Data Science projects.
 - 💬 Ask me about Python, data science, or machine learning 😮‍💨.
 - 📫 How to reach me: ojomideju2003@gmail.com 
