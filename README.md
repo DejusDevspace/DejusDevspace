@@ -39,9 +39,9 @@ class Deju:
 - Data Science 📊
 - Machine Learning 🤖
 - Flask 🌶️
-- SQLAlchemy 🏛️
 - C++ 💻
 - JavaScript 💻
+- Node.js 💻
 - HTML5 🌐, Cascading Style Sheets (CSS) 🎨
 - and a few more... 🚀
   
