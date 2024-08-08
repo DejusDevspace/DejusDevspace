@@ -38,6 +38,7 @@ class Deju:
 - Python 🐍
 - Data Science 📊
 - Machine Learning 🤖
+- AI 👾
 - Flask 🌶️
 - C++ 💻
 - JavaScript 💻
