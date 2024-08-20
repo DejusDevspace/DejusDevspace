@@ -49,7 +49,7 @@ class Deju:
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&langs_count=9&theme=dark#gh-dark-mode-only&layout=compact)
 
 ## Let's Connect
 
