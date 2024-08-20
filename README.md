@@ -45,7 +45,11 @@ class Deju:
 - Node.js 💻
 - HTML5 🌐, Cascading Style Sheets (CSS) 🎨
 - and a few more... 🚀
-  
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&theme=dark#gh-dark-mode-only)
+
 ## Let's Connect
 
 - LinkedIn: [@deju-adejo](https://www.linkedin.com/in/deju-adejo)
