@@ -8,8 +8,8 @@ class Deju:
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
-                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'XGBoost', 'catboost'],
-                        'deep_learning': ['TensorFlow', 'Keras'],
+                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'XGBoost', 'catboost'],
+                        'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
                         'artifcial_intelligence': ['LangChain', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangGraph'],
                         'web_development': ['Flask', 'Node.js', 'Express.js', 'Bootstrap', 'jQuery', 'WordPress', 'Streamlit'],
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL'],
