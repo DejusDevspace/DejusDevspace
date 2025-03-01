@@ -8,16 +8,16 @@ class Deju:
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
-                        'machine_learning': ['scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'XGBoost', 'catboost'],
+                        'machine_learning': ['scikit-learn', 'XGBoost', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
                         'artifcial_intelligence': ['LangChain', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangGraph'],
                         'web_development': {
-                                            'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
-                                            'Backend': ['Flask', 'Node.js', 'Express.js', 'Streamlit']
+                            'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
+                            'Backend': ['Flask', 'Node.js', 'Express.js', 'Streamlit']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL'],
                         'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
-                        'cloud_based_IDEs': ['Google Colab', 'Replit'],
+                        'cloud_based_IDEs': ['Google Colab', 'Replit', 'Code Sandbox'],
                         'design_softwares': ['AutoCAD', 'SOLIDWORKS'],
                         'version_control': ['Git', 'GitHub'],
         }
