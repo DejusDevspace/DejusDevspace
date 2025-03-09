@@ -15,7 +15,7 @@ class Deju:
                             'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
                             'Backend': ['Flask', 'Node.js', 'Express.js', 'Streamlit']
                         },
-                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL'],
+                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
                         'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
                         'cloud_based_IDEs': ['Google Colab', 'Replit', 'Code Sandbox'],
                         'design_softwares': ['AutoCAD', 'SOLIDWORKS'],
