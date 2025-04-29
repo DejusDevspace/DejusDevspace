@@ -13,7 +13,7 @@ class Deju:
                         'artifcial_intelligence': ['LangChain', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangGraph'],
                         'web_development': {
                             'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
-                            'Backend': ['Flask', 'Node.js', 'Express.js', 'Streamlit']
+                            'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
                         'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
@@ -31,8 +31,8 @@ class Deju:
 ## About Me
 
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
-- 🌱 I’m currently learning Machine Learning / AI (RAG), robotics, and full-stack web development.
-- 👯 I’m looking to collaborate on ML/AI, Python, Data Science projects.
+- 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development.
+- 👯 I’m looking to collaborate on ML/AI, Python, Data Science, Web Development projects.
 - 💬 Ask me about Python, data science, or machine learning 😮‍💨.
 - 📫 How to reach me: ojomideju2003@gmail.com 
 - ⚡ Fun fact: I love Object-Oriented Programming 🤫, Football ⚽, Gaming 🎮, and Learning 📚
@@ -46,6 +46,7 @@ class Deju:
 - Flask 🌶️
 - C++ 💻
 - JavaScript 💻
+- React.js 🥏
 - Node.js 💻
 - HTML5 🌐, Cascading Style Sheets (CSS) 🎨
 - and a few more... 🚀
