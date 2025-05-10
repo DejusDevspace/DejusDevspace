@@ -46,6 +46,9 @@ class Deju:
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&langs_count=9&theme=dark#gh-dark-mode-only&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DejusDevspace&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DejusDevspace&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Let's Connect
 
