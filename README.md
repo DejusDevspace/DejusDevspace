@@ -28,7 +28,7 @@ class Deju:
             setattr(self, key, value)
 ```
 
-## About Me
+## 💫 About Me
 
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
 - 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development.
