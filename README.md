@@ -37,6 +37,9 @@ class Deju:
 - 📫 How to reach me: ojomideju2003@gmail.com 
 - ⚡ Fun fact: I love Object-Oriented Programming 🤫, Football ⚽, Gaming 🎮, and Learning 📚
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deju-adejo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adejo_deju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojomideju2003@gmail.com) 
+
 ## Skills
 
 - Python 🐍
