@@ -21,7 +21,7 @@ class Deju:
                         'design_softwares': ['AutoCAD', 'SOLIDWORKS'],
                         'version_control': ['Git', 'GitHub'],
         }
-        self.hobbies = ['Learning', 'Music', 'Football', 'Gaming', 'Reading??']
+        self.hobbies = ['Learning', 'Music', 'Football', 'Gaming']
 
         # Always looking to improve and add to my skills:
         for key, value in kwargs.items():
