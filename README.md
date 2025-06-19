@@ -4,7 +4,7 @@
 class Deju:
     def __init__(self, **kwargs):
         self.name = self.__class__.__name__
-        self.interests = ['AI', 'Python', 'Data Science', 'Machine Learning', 'Robotics']
+        self.interests = ['AI', 'Python', 'Data Science', 'Machine Learning', 'Robotics', '...']
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
@@ -33,7 +33,7 @@ class Deju:
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
 - 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development.
 - 👯 I’m looking to collaborate on ML/AI, Python, Data Science, Web Development projects.
-- 💬 Ask me about Python, data science, or machine learning 😮‍💨.
+- 💬 Ask me about Python, data science, AI, or machine learning 😮‍💨.
 - 📫 How to reach me: ojomideju2003@gmail.com 
 - ⚡ Fun fact: I love building stuff 🏗, Football ⚽, Gaming 🎮, and Learning 📚
 
