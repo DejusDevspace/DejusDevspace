@@ -4,7 +4,7 @@
 class Deju:
     def __init__(self, **kwargs):
         self.name = self.__class__.__name__
-        self.interests = ['AI', 'Python', 'Data Science', 'Machine Learning', 'Robotics', '...']
+        self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics']
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'HTML5/CSS', 'C++'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
