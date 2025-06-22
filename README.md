@@ -13,7 +13,7 @@ class Deju:
                         'artifcial_intelligence': ['LangChain', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangGraph'],
                         'web_development': {
                             'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
-                            'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit']
+                            'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
                         'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
