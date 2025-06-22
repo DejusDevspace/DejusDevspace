@@ -34,7 +34,6 @@ class Deju:
 - 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development.
 - 👯 I’m looking to collaborate on ML/AI, Python, Data Science, Web Development projects.
 - 💬 Ask me about Python, data science, AI, or machine learning 😮‍💨.
-- 📫 How to reach me: ojomideju2003@gmail.com 
 - ⚡ Fun fact: I love building stuff 🏗, Football ⚽, Gaming 🎮, and Learning 📚
 
 ## 💻 Tech Stack:
