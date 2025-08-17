@@ -4,7 +4,7 @@
 class Deju:
     def __init__(self, **kwargs):
         self.name = self.__class__.__name__
-        self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics', 'Web Development']
+        self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics & Embedded Systems', 'Web Development']
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'Typescript', 'HTML5/CSS', 'C++'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
@@ -16,9 +16,6 @@ class Deju:
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
-                        'IDEs': ['Pycharm', 'Visual Studio Code', 'Atom', 'Thonny', 'IntelliJ IDEA', 'Jupyter Notebook'],
-                        'cloud_based_IDEs': ['Google Colab', 'Replit', 'Code Sandbox'],
-                        'design_softwares': ['AutoCAD', 'SOLIDWORKS'],
                         'version_control': ['Git', 'GitHub'],
         }
         self.hobbies = ['Learning', 'Music', 'Football', 'Gaming']
