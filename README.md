@@ -6,7 +6,7 @@ class Deju:
         self.name = self.__class__.__name__
         self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics & Embedded Systems', 'Web Development']
         self.skills = {
-                        'languages': ['Python', 'JavaScript', 'Typescript', 'HTML5/CSS', 'C++'],
+                        'languages': ['Python', 'JavaScript', 'C++','Typescript', 'HTML5/CSS'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
                         'machine_learning': ['scikit-learn', 'XGBoost', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
