@@ -8,9 +8,9 @@ class Deju:
         self.skills = {
                         'languages': ['Python', 'JavaScript', 'C++','Typescript', 'HTML5/CSS'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
-                        'machine_learning': ['scikit-learn', 'XGBoost', 'catboost'],
+                        'machine_learning': ['scikit-learn', 'XGBoost', 'lightBGM', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
-                        'artifcial_intelligence': ['LangChain', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangGraph'],
+                        'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'Vector Databases'],
                         'web_development': {
                             'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
