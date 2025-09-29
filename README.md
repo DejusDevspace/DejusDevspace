@@ -1,4 +1,4 @@
-# Hello, I'm Deju! 👋
+# Hii, I'm Deju! 👋
 
 ```python
 class Deju:
