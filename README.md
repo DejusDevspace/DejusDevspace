@@ -41,6 +41,8 @@ class Deju:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&langs_count=12&theme=dark#gh-dark-mode-only&layout=compact) <br />
 ![](https://nirzak-streak-stats.vercel.app/?user=DejusDevspace&theme=nightowl&hide_border=false)<br/>
 
+![DejusDevspace's Stats](https://github-readme-stats.vercel.app/api?username=DejusDevspace&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🌐 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.d3_ju._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deju-adejo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adejo_deju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojomideju2003@gmail.com) 
 
