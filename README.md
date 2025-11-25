@@ -11,12 +11,14 @@ class Deju:
                         'machine_learning': ['scikit-learn', 'XGBoost', 'lightBGM', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
                         'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'Vector Databases'],
+                        'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32']    
                         'web_development': {
                             'Frontend': ['React.js', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
                         'version_control': ['Git', 'GitHub'],
+                        'deployment & CI/CD': ['Docker', 'GCP', 'Azure', 'AWS', 'GitHub Actions', 'Vercel', 'Render']
         }
         self.hobbies = ['Learning', 'Music', 'Football', 'Gaming']
 
