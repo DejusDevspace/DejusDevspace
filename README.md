@@ -30,7 +30,7 @@ class Deju:
 ## 💫 About Me
 
 - 🔭 I’m currently working on a few personal projects to showcase my abilities.
-- 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development.
+- 🌱 I’m working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development, and I recently started contributing to Open Source Projects.
 - 👯 I’m looking to collaborate on ML/AI, Python, Data Science, Web Development projects.
 - 💬 Ask me about Python, data science, AI, or machine learning 😮‍💨.
 - ⚡ Fun fact: I love building stuff 🏗, Football ⚽, Gaming 🎮, and Learning 📚
