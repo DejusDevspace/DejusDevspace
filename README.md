@@ -41,7 +41,6 @@ class Deju:
 ## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&langs_count=12&theme=dark#gh-dark-mode-only&layout=compact) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejusDevspace)](https://github.com/anuraghazra/github-readme-stats) <br />
 ![DejusDevspace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DejusDevspace&theme=nightowl&hide_border=false) <br />
 
 ## 🌐 Let's Connect
