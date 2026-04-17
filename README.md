@@ -10,17 +10,17 @@ class Deju:
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
                         'machine_learning': ['scikit-learn', 'XGBoost', 'lightBGM', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
-                        'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'Vector Databases'],
+                        'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangFuse', 'Ollama', 'Vector Databases'],
                         'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32']    
                         'web_development': {
                             'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
-                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase'],
+                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase', 'Pinecone', 'Qdrant', 'Chroma', 'FAISS'],
                         'version_control': ['Git', 'GitHub'],
                         'deployment & CI/CD': ['Docker', 'GCP', 'Azure', 'AWS', 'GitHub Actions', 'Vercel', 'Render']
         }
-        self.hobbies = ['Learning', 'Music', 'Football', 'Gaming']
+        self.hobbies = ['Building project', 'Learning', 'Music', 'Football', 'Gaming']
 
         # Always looking to improve and add to my skills:
         for key, value in kwargs.items():
