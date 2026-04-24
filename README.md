@@ -20,7 +20,7 @@ class Deju:
                         'version_control': ['Git', 'GitHub'],
                         'deployment & CI/CD': ['Docker', 'GCP', 'Azure', 'AWS', 'GitHub Actions', 'Vercel', 'Render']
         }
-        self.hobbies = ['Building project', 'Learning', 'Music', 'Football', 'Gaming']
+        self.hobbies = ['Building projects', 'Learning', 'Music', 'Football', 'Gaming']
 
         # Always looking to improve and add to my skills:
         for key, value in kwargs.items():
