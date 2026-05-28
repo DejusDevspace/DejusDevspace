@@ -16,7 +16,7 @@ class Deju:
                             'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
-                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase', 'Pinecone', 'Qdrant', 'Chroma', 'FAISS'],
+                        'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase', 'Pinecone', 'Qdrant', 'Chroma', 'FAISS', 'pgvector'],
                         'version_control': ['Git', 'GitHub'],
                         'deployment & CI/CD': ['Docker', 'GCP', 'Azure', 'AWS', 'GitHub Actions', 'Vercel', 'Render']
         }
@@ -31,8 +31,8 @@ class Deju:
 
 - 🔭 I'm currently working on a few personal projects to showcase my abilities.
 - 🌱 I'm working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development, and I recently started contributing to Open Source Projects.
-- 👯 I'm looking to collaborate on ML/AI, Python, Data Science, Web Development projects.
-- 💬 Ask me about Python, data science, AI, or machine learning 😮‍💨.
+- 👯 I'm looking to collaborate on AI & ML, Python, Data Science, Web Development projects.
+- 💬 Ask me about Python, system design & architectures, data science, AI, or machine learning 😮‍💨.
 - ⚡ Fun fact: I love building stuff 🏗, Football ⚽, Gaming 🎮, and Learning 📚
 
 ## 💻 Tech Stack:
