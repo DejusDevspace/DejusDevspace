@@ -29,7 +29,7 @@ class Deju:
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on a few personal projects to showcase my abilities.
+- 🔭 I'm currently working on a few personal projects to showcase my abilities, learning rust, updating my knowledge on system design and low-level concepts.
 - 🌱 I'm working on projects in Machine Learning / AI (RAG and Agentic AI), robotics, and full-stack web development, and I recently started contributing to Open Source Projects.
 - 👯 I'm looking to collaborate on AI & ML, Python, Data Science, Web Development projects.
 - 💬 Ask me about Python, system design & architectures, data science, AI, or machine learning 😮‍💨.
