@@ -1,5 +1,7 @@
 # Hello, I'm Deju! 👋
 
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/DejusDevspace.svg?variant=secondary&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/DejusDevspace.svg?variant=secondary&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-88-2563eb.svg?logo=github&variant=secondary&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Earth%2C_Land-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&font=jetbrains-mono) ![Company](https://www.shieldcn.dev/badge/Company-Blackbox_Technology_Systems_Limited-1f2937.svg?logo=building&variant=outline&size=xs&font=jetbrains-mono&theme=zinc&color=2e5ba6)
+
 ```python
 class Deju:
     def __init__(self, **kwargs):
@@ -45,6 +47,8 @@ class Deju:
 ![DejusDevspace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DejusDevspace&theme=nightowl&hide_border=false) <br />
 
 ## 🌐 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.d3_ju._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deju-adejo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adejo_deju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojomideju2003@gmail.com) 
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40DejusDevspace-181717.svg?logo=github&variant=branded&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace) [![X Follow](https://www.shieldcn.dev/x/follow/adejo_deju.svg?variant=branded&size=xs&font=jetbrains-mono)](https://x.com/adejo_deju) [![Website](https://www.shieldcn.dev/badge/Website-dejuadejo.vercel.app-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs&font=jetbrains-mono)](https://dejuadejo.vercel.app) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40deju--adejo-0A66C2.svg?logo=linkedin&variant=branded&size=xs&font=jetbrains-mono)](https://linkedin.com/in/deju-adejo) [![Instagram](https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&variant=branded&size=xs&font=jetbrains-mono)](https://instagram.com/_.d3_ju._)
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojomideju2003@gmail.com) 
 
 Feel free to reach out if you have any questions or just want to connect! 😊
