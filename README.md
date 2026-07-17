@@ -15,7 +15,7 @@ class Deju:
                         'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangFuse', 'Ollama', 'Vector Databases'],
                         'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32']    
                         'web_development': {
-                            'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS'],
+                            'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS', 'Jinja'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase', 'Pinecone', 'Qdrant', 'Chroma', 'FAISS', 'pgvector'],
