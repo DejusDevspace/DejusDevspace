@@ -9,11 +9,11 @@ class Deju:
         self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics & Embedded Systems', 'Web Development']
         self.skills = {
                         'languages': ['Python', 'TypeScript', 'C++'],
+                        'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangFuse', 'Ollama', 'Vector Databases'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
                         'machine_learning': ['scikit-learn', 'XGBoost', 'lightBGM', 'catboost'],
                         'deep_learning': ['TensorFlow', 'Keras', 'PyTorch'],
-                        'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangFuse', 'Ollama', 'Vector Databases'],
-                        'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32']    
+                        'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32'],
                         'web_development': {
                             'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS', 'Jinja'],
                             'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
