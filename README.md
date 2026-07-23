@@ -16,7 +16,7 @@ class Deju:
                         'robotics & IoT': ['Arduino', 'RaspberryPi', 'ESP32'],
                         'web_development': {
                             'Frontend': ['React.js', 'Next.js', 'TailwindCSS', 'Bootstrap', 'jQuery', 'WordPress', 'HTML5', 'CSS', 'EJS', 'Jinja'],
-                            'Backend': ['Flask', 'Node.js', 'FastAPI', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
+                            'Backend': ['FastAPI', 'Flask', 'Node.js', 'Express.js', 'Streamlit', 'Firebase', 'Supabase']
                         },
                         'databases': ['SQLAlquemy', 'SQLite', 'PostgreSQL', 'Supabase', 'Pinecone', 'Qdrant', 'Chroma', 'FAISS', 'pgvector'],
                         'version_control': ['Git', 'GitHub'],
