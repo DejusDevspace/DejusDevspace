@@ -8,7 +8,7 @@ class Deju:
         self.name = self.__class__.__name__
         self.interests = ['AI', 'Data Science', 'Machine Learning', 'Robotics & Embedded Systems', 'Web Development']
         self.skills = {
-                        'languages': ['Python', 'TypeScript', 'C++'],
+                        'languages': ['Python', 'TypeScript', 'C++', 'Go'],
                         'artifcial_intelligence': ['LangChain', 'LangGraph', 'LLMs', 'HuggingFace', 'GroqAI', 'LangSmith', 'LangFuse', 'Ollama', 'Vector Databases'],
                         'data_science': ['matplotlib', 'pandas', 'numpy', 'seaborn', 'plotly', 'scipy'],
                         'machine_learning': ['scikit-learn', 'XGBoost', 'lightBGM', 'catboost'],
