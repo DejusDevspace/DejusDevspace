@@ -2,9 +2,9 @@
 
 [![Public Repos](https://www.shieldcn.dev/badge/Repos-88-2563eb.svg?logo=github&variant=secondary&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace?tab=repositories) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/DejusDevspace.svg?variant=secondary&size=xs&font=jetbrains-mono)](https://github.com/DejusDevspace?tab=repositories)  ![Location](https://www.shieldcn.dev/badge/Location-Earth%2C_Land-6366f1.svg?logo=googlemaps&variant=ghost&size=xs&font=jetbrains-mono) ![Company](https://www.shieldcn.dev/badge/Company-Blackbox_Technology_Systems_Limited-1f2937.svg?logo=building&variant=outline&size=xs&font=jetbrains-mono&theme=zinc&color=2e5ba6)
 
-# TODO: Rewrite this in another language?
 
 ```python
+# TODO: Rewrite this in another language?
 class Deju:
     def __init__(self, **kwargs):
         self.name = self.__class__.__name__
