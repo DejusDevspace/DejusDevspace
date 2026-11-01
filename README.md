@@ -47,7 +47,6 @@ class Deju:
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DejusDevspace&hide_progress=true&langs_count=14&theme=dark#gh-dark-mode-only&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;
 [![DejusDevspace's GitHub stats](https://github-stats-extended.vercel.app/api?username=DejusDevspace&theme=dark)] <br /> <br />
-[![DejusDevspace's GitHub stats](https://github-stats-extended.vercel.app/api?username=DejusDevspace)](https://github.com/stats-organization/github-stats-extended)  <br /> <br />
 ![DejusDevspace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DejusDevspace&theme=nightowl&hide_border=false) <br />
 
 ## 🌐 Let's Connect
